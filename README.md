@@ -1,6 +1,5 @@
 Hi there 👋 My name is Huy Phan
 
-<img align="right" width="300px" alt="Coding GIF" src="https://www.google.com/search?q=https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 🔭 I’m currently working on a bus-cleaning project.
 
