@@ -14,6 +14,20 @@ Hi there 👋 My name is Huy Phan
 <br clear="both"/>
 
 🛠️ My Skills & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+### 📊 My GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bigfoxPNH&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigfoxPNH&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=bigfoxPNH&theme=darkhub" alt="Trophies" />
+</p>
 
 
-📊 My GitHub Stats
