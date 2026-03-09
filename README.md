@@ -28,16 +28,3 @@ Hi there 👋 My name is Huy Phan
   <!-- General Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" height="40"/>
 </p>
-
-
-### 📊 My GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bigfoxPNH&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigfoxPNH&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=bigfoxPNH&theme=darkhub" alt="Trophies" />
-</p>
-
-
